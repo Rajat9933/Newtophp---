@@ -26,7 +26,7 @@ echo str_replace("Code", "Python", $phrase);
 echo substr($phrase, 5, 3);
 /*>>>>Working with numbers<<<<<*/
 echo "<br><br><strong>Woking with numbers!<strong><br>";
-/*php is able to any math*/
+/*php is able to do any math*/
 echo 5 * 5;
 echo 8 / 2;
 echo 8 - 7;
