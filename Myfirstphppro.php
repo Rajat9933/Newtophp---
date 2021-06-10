@@ -15,15 +15,15 @@ echo "to figure out the length of the character<br><br>";
 echo strlen($phrase);
 /* to figureout first word of the character*/ 
 $phrase = "Code academy";
-/*echo  $phrase[0];*/
+echo  $phrase[0];
 /* to figureout second word of hte character*/ 
-/*echo $phrase[1];*/
+echo $phrase[1];
 /* to modify individual characters*/
-/*echo $phrase[0] = "t";*/
+echo $phrase[0] = "t";
 /* for replace the character*/
 echo str_replace("Code", "Python", $phrase);
 /*In order to grab specific word in a row */
-/*echo substr($phrase, 5, 3);*/
+echo substr($phrase, 5, 3);
 /*>>>>Working with numbers<<<<<*/
 echo "<br><br><strong>Woking with numbers!<strong><br>";
 /*php is able to any math*/
