@@ -22,7 +22,7 @@ echo $phrase[1];
 echo $phrase[0] = "t";
 /* for replace the character*/
 echo str_replace("Code", "Python", $phrase);
-/*In order to grab specific word in a row */
+/*to grab specific word in a row */
 echo substr($phrase, 5, 3);
 /*>>>>Working with numbers<<<<<*/
 echo "<br><br><strong>Woking with numbers!<strong><br>";
